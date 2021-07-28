@@ -368,4 +368,4 @@ Resources:
               OutputArtifacts:
                 - Name: BuildOutput
               RunOrder: 1
-    DependsOn: CodeBuildProject
+    DependsOn: CodeBuildProject 
